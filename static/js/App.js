@@ -43,7 +43,7 @@ const Header = () => (
               </div> */}
               <div className='mt-4 mb-4 apr-info-child' style={{maxWidth: '150px'}}>
                 <p><strong className='purple-text'>HEROEX</strong> Vaults <strong className='orange-text'>APR:</strong></p>
-                <p>Deposit DAI, ETH, UNOS/ETH LP Tokens &amp; farm UNOS</p>
+                <p>Deposit DAI, ETH, HEROEX/ETH LP Tokens &amp; farm UNOS</p>
                 {/* <p className='mb-0'><span className='orange-text'>APR-</span><span className='text-bold purple-text'>Yearly:</span> <span style={{float: 'right'}}>72<i className='orange-text'>%</i></span></p>
                 <p className='mb-0'><span className='orange-text'>APR-</span><span className='text-bold purple-text'>Monthly:</span> <span style={{float: 'right'}}>6<i className='orange-text'>%</i></span></p>
                 <p className='mb-0'><span className='orange-text'>APR-</span><span className='text-bold purple-text'>Daily:</span> <span style={{float: 'right'}}>0.2<i className='orange-text'>%</i></span></p> */}
