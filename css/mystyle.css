@@ -1,0 +1,79 @@
+body{
+    background:transparent;
+}
+.purple-bg{
+    background:#fff;
+}
+footer img{
+    display: none;
+}
+.apr-info{
+    display: none;
+}
+.container .mt-5{
+    text-align: left;
+    margin-top: 100px!important;
+    background-image: url(../img/shape_2.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    min-height: 100vh;
+    background-position-x: 150%;
+}
+.logo-column img{
+    height: 65px!important;
+}
+.btn {
+    background: linear-gradient(190.14deg, #2D71B8 27.57%, #1A3F74 92.87%)!important;
+    border-color: #2D71B8!important;
+    box-shadow: none!important;
+    border-radius: 10px;
+}
+.btn a {
+    font-size: 13px;
+    font-weight: bold;
+    -webkit-text-fill-color: #fff;
+}
+.price-widget{
+    display:none;
+}
+.container h3.mt-5{
+    background-image:none;
+    min-height: 50px!important;
+}
+.tips.mt-5 {
+    display: none;
+}
+.btn.orange{
+    background-color: #5d21bd!important;
+    border-color: #5d21bd!important;
+}
+.orange-text{
+    color: #5d21bd!important;
+}
+
+.vault-container:nth-child(1){
+    display:none;
+}
+
+.vault-container:nth-child(5){
+    display:none;
+}
+.vault-container:nth-child(6){
+    display:none;
+}
+.App{
+    background-image:url(../images/923.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+}
+.footer{    
+    margin-bottom: 12px;
+    text-align: center;
+}
+.footer a.btn{
+    color:#fff;
+}
+.token-staking{
+    background-image:url(../images/blockchain-3212312_1280.jpg);
+}

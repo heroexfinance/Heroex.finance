@@ -1,0 +1,150 @@
+::placeholder {
+    color: #bbb!important;
+}
+
+.table-condensed td, .table-condensed th {
+    padding: .9rem;
+}
+.table td pre {
+    margin-bottom: 0;
+}
+.text-bold {
+    font-weight: 800;
+}
+.token-staking-form form {
+    padding-top: 2rem;
+}
+.token-staking-form form label {
+    font-size: 1.3rem;
+    font-weight: bold;
+    padding-bottom: .5rem;
+}
+
+body {
+    background: rgb(254,246,230);
+    color: #1C3756;
+    /* color: #fff; */
+    /* color: rgb(254,246,230); */
+    font-family: 'Raleway', sans-serif!important;
+    font-weight: 500;
+
+}
+a, a:hover, a:active, a:link, a:visited {
+    color: rgb(0,0,0);
+}
+/* button.btn-primary:hover {
+    background: linear-gradient(90deg, #2765FF, #17D7FF);
+} */
+
+.token-staking table {
+    font-size: 1.2rem;
+}
+
+.token-staking-form input {
+    background: transparent!important;
+    color: #fff!important;
+    border-color: #fff!important;
+}
+.bg-white {
+    border-color: white!important;
+}
+
+small {
+    font-size: .8rem;
+    position: relative;
+    top:1px;
+}
+.App {
+    /* padding-top: 2rem; */
+}
+
+.purple-text {
+    color: #1C3756;
+}
+.purple-bg {
+    background: #1C3756;
+}
+.orange-text {
+    color:rgb(255,159,0)!important;
+}
+
+.btn {
+    background: rgb(28,55,86)!important;
+    border-color: rgb(28,55,86)!important;
+    font-weight: bold;
+    /* padding: .6rem 2rem; */
+    /* font-size: 1.2rem; */
+    /* border-radius: .5rem; */
+}
+.btn.orange {
+    background: rgb(255,159,0)!important;
+    color: #fff!important;
+    border-color: rgb(255,159,0)!important;
+}
+
+.tips {
+    color: rgb(0,0,0);
+}
+.text-normal {
+    color:#oooooo;
+}
+.text-normal th {
+    color:#000000;
+}
+.text-normal strong {
+    font-weight: normal!important;
+    color:#000000;
+}
+.logo-column {
+    padding-left: 5rem;
+}
+@media all and (max-width: 768px) {
+    .apr-info {
+        padding-top: 2rem;
+        float: initial!important;
+        margin: auto;
+    }
+    .apr-info-child {
+        margin: auto;
+    }
+    .logo-column {
+        text-align: center;
+        padding-left: 15px;
+    }
+}
+.table {
+    color: rgb(28,55,86)!important;
+}
+strong, th {
+    font-weight: 800;
+}
+
+.vaults-list {
+    margin-bottom: 10rem;
+    margin-top: 3rem;
+}
+.vault-container {
+    max-width: 800px;
+    background: #fff;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    border: 1px solid rgba(0,0,0,.05);
+    box-shadow: 4px 4px 8px rgba(0,0,0,.2);
+}
+.vault-container:hover {
+    box-shadow: 6px 6px 12px rgba(0,0,0,.2);
+
+}
+.vault-container a {
+    text-decoration: none!important;
+}
+.vault-container img {
+    display: inline-block;
+    margin-right: 1.5rem;
+}
+.vault-container h4 {
+    font-size: 1.2rem;
+}
