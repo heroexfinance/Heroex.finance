@@ -33,16 +33,16 @@ const Header = () => (
           <div className='col-md-5 pr-0 pl-0'>
             <div className='apr-info' style={{maxWidth: '300px', float: 'right'}}>
               <div style={{textAlign: 'right'}}>
-                <a href='https://UNOS.finance' className='btn btn-block btn-primary btn-lg pr-5 pl-5 orange-text'>Return to Main Page</a>
+                <a href='https://heroex.finance' className='btn btn-block btn-primary btn-lg pr-5 pl-5 orange-text'>Return to Main Page</a>
               </div>
               {/* <div className='mt-4 mb-4 apr-info-child' style={{maxWidth: '150px'}}>
-                <p><strong className='purple-text'>UNOS</strong> Staking <strong className='orange-text'>APR:</strong></p>
+                <p><strong className='purple-text'>HEROEX</strong> Staking <strong className='orange-text'>APR:</strong></p>
                 <p className='mb-0'><span className='orange-text'>APR-</span><span className='text-bold purple-text'>Yearly:</span> <span style={{float: 'right'}}>72<i className='orange-text'>%</i></span></p>
                 <p className='mb-0'><span className='orange-text'>APR-</span><span className='text-bold purple-text'>Monthly:</span> <span style={{float: 'right'}}>6<i className='orange-text'>%</i></span></p>
                 <p className='mb-0'><span className='orange-text'>APR-</span><span className='text-bold purple-text'>Daily:</span> <span style={{float: 'right'}}>0.2<i className='orange-text'>%</i></span></p>
               </div> */}
               <div className='mt-4 mb-4 apr-info-child' style={{maxWidth: '150px'}}>
-                <p><strong className='purple-text'>UNOS</strong> Vaults <strong className='orange-text'>APR:</strong></p>
+                <p><strong className='purple-text'>HEROEX</strong> Vaults <strong className='orange-text'>APR:</strong></p>
                 <p>Deposit DAI, ETH, UNOS/ETH LP Tokens &amp; farm UNOS</p>
                 {/* <p className='mb-0'><span className='orange-text'>APR-</span><span className='text-bold purple-text'>Yearly:</span> <span style={{float: 'right'}}>72<i className='orange-text'>%</i></span></p>
                 <p className='mb-0'><span className='orange-text'>APR-</span><span className='text-bold purple-text'>Monthly:</span> <span style={{float: 'right'}}>6<i className='orange-text'>%</i></span></p>
